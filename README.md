@@ -47,4 +47,4 @@ It automatically wil close and it will download a new app named **AutoBackup Upd
 
 ![image](https://user-images.githubusercontent.com/73621705/209164957-76a48820-ad00-4f9b-82f5-997fb6b9c66e.png)
 
-You can open it  and that's 
+You can open it and you're done 
