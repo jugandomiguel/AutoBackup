@@ -11,4 +11,13 @@ It automatically will create a folder in the desktop named Backup
 
 ![image](https://user-images.githubusercontent.com/73621705/209162793-250d586c-6dd8-4845-889a-c380a12a8a45.png)
 
-In that folder is the main app
+In that folder is the main app, you can use it for make your backups
+
+# How to update the app
+First you need to open the main app
+![image](https://user-images.githubusercontent.com/73621705/209163314-a441f287-fa49-4fa9-8c40-b3c5ead5bf27.png)
+
+When is opened go to **Configuration**
+
+![image](https://user-images.githubusercontent.com/73621705/209163342-5f41231c-42bc-4861-a2dc-39e224357ce2.png)
+
