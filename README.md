@@ -16,7 +16,7 @@ In that folder is the main app, you can use it for make your backups
 # How to update the app
 First you need to open the main app
 
-![image](https://user-images.githubusercontent.com/73621705/209163314-a441f287-fa49-4fa9-8c40-b3c5ead5bf27.png)
+![image](https://user-images.githubusercontent.com/73621705/209165557-a2e60ccf-a6a2-483e-a23a-e9f0d6387145.png)
 
 When is opened go to **Configuration**
 
