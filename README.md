@@ -1,6 +1,9 @@
 # AutoBackup
+
 [How to install](https://github.com/jugandomiguel/AutoBackup#how-to-install)
+
 [How to update the app](https://github.com/jugandomiguel/AutoBackup#how-to-install)
+
 [How to use](https://github.com/jugandomiguel/AutoBackup#how-to-install)
 - [Setup](https://github.com/jugandomiguel/AutoBackup#how-to-install)
 - [How to use the auto save](https://github.com/jugandomiguel/AutoBackup#how-to-install)
