@@ -7,7 +7,7 @@ Now open it and click yes
 
 ![image](https://user-images.githubusercontent.com/73621705/209161902-12ccdfeb-d94b-405d-996d-afa185b1aa0a.png)
 
-It automatically will create a folder in the desktop named Backup
+It automatically will create a folder in the desktop named AutoBackup
 
 ![image](https://user-images.githubusercontent.com/73621705/209162793-250d586c-6dd8-4845-889a-c380a12a8a45.png)
 
