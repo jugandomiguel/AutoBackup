@@ -52,14 +52,28 @@ It automatically wil close and it will download a new app named **AutoBackup Upd
 You can open it and you're done 
 
 # How to use
+## Setup
 First open the app and click **yes**
 
 ![image](https://user-images.githubusercontent.com/73621705/209174516-cf1dca5d-1113-456b-8298-b15bc863a6a2.png)
 
 Now put your backups directory
 
-![image](https://user-images.githubusercontent.com/73621705/209174526-a0139c2d-eb48-44c5-9066-2f7c89723d22.png)
+![image](https://user-images.githubusercontent.com/73621705/209174522-ff115f4b-50c4-4d08-b12b-2a6c77939ffc.png)
 
 And you're done
 
-![image](https://user-images.githubusercontent.com/73621705/209174522-ff115f4b-50c4-4d08-b12b-2a6c77939ffc.png)
+![image](https://user-images.githubusercontent.com/73621705/209174526-a0139c2d-eb48-44c5-9066-2f7c89723d22.png)
+
+## How use the auto save
+
+In your main directory will be 2 folders
+
+![image](https://user-images.githubusercontent.com/73621705/209175283-4006df9d-22dc-4bcb-a5c1-8f29e3dcd13a.png)
+
+In files you are going to put the files you are going to modify (folders not supported)
+In backups all your backups will appear
+
+For make a new backup go to the app and click **Save**
+
+![image](https://user-images.githubusercontent.com/73621705/209175498-36123a72-b45a-4e3a-9085-7cc0928bb63f.png)
