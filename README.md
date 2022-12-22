@@ -35,3 +35,16 @@ If there's no updates it will show this new message
 
 ![image](https://user-images.githubusercontent.com/73621705/209164101-9fdaba31-0f82-4ef0-8e87-7b63e3bd0851.png)
 
+If there's a new update it will show this other message 
+
+![image](https://user-images.githubusercontent.com/73621705/209164578-8b60cc90-32ea-491d-ad2d-c1fd4f27d386.png)
+
+Click yes for auto update and wait, when it's done it will say **Updated**
+
+![image](https://user-images.githubusercontent.com/73621705/209164729-2572af0e-aba7-45d4-8254-bad1ec8fc3ea.png)
+
+It automatically wil close and it will download a new app named **AutoBackup Update** 
+
+![image](https://user-images.githubusercontent.com/73621705/209164957-76a48820-ad00-4f9b-82f5-997fb6b9c66e.png)
+
+You can open it  and that's 
