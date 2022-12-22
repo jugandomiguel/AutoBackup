@@ -3,10 +3,10 @@
 App for make backups of your files more easily
 
 - [How to install](https://github.com/jugandomiguel/AutoBackup#how-to-install)
-- [How to update the app](https://github.com/jugandomiguel/AutoBackup#how-to-install)
-- [How to use](https://github.com/jugandomiguel/AutoBackup#how-to-install)
-  - [Setup](https://github.com/jugandomiguel/AutoBackup#how-to-install)
-  - [How to use the auto save](https://github.com/jugandomiguel/AutoBackup#how-to-install)
+- [How to update the app](https://github.com/jugandomiguel/AutoBackup#how-to-update-the-app)
+- [How to use](https://github.com/jugandomiguel/AutoBackup#how-to-use)
+  - [Setup](https://github.com/jugandomiguel/AutoBackup#setup)
+  - [How to use the auto save](https://github.com/jugandomiguel/AutoBackup#how-use-the-auto-save)
 
 # How to install
 First you need to download the [installer](https://github.com/jugandomiguel/AutoBackup/releases/download/Installer/AutoBackupInstaller.exe) and open it
