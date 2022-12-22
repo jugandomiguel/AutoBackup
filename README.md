@@ -25,3 +25,13 @@ When is opened go to **Configuration**
 And click **New Version Checker**
 
 ![image](https://user-images.githubusercontent.com/73621705/209163671-0f983e52-c0a1-442d-8ff5-f1a532e1d5aa.png)
+
+When you click it this message is going to pop
+
+![image](https://user-images.githubusercontent.com/73621705/209163931-e45e3c2d-4365-418d-8ce1-50dc08d49339.png)
+
+Click ok and wait for the app
+If there's no updates it will show this new message
+
+![image](https://user-images.githubusercontent.com/73621705/209164101-9fdaba31-0f82-4ef0-8e87-7b63e3bd0851.png)
+
