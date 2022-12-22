@@ -1,5 +1,7 @@
 # AutoBackup
 
+App for make backups of your files more easily
+
 - [How to install](https://github.com/jugandomiguel/AutoBackup#how-to-install)
 - [How to update the app](https://github.com/jugandomiguel/AutoBackup#how-to-install)
 - [How to use](https://github.com/jugandomiguel/AutoBackup#how-to-install)
